@@ -22,5 +22,3 @@ This is an independent practice project created for educational and preparation 
 ## Author
 
 **KodemCode**
-
-GitHub: [@vezcode](https://github.com/vezcode)
